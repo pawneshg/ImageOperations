@@ -12,3 +12,7 @@
 
 # References:
 (1) An FFT-based technique for translation, rotation and scale-invariant image registration. BS Reddy, BN Chatterji. IEEE Transactions on Image Processing, 5, 1266-1271, 1996
+(2) Berthold K.P. Horn and Brian G. Rhunck  "Determining optical flow" AIL MIT, 
+(3) Opencv Doc: https://docs.opencv.org/3.4/d4/dee/tutorial_optical_flow.html
+(4) UCF Computer Vision Video Lectures 2012
+https://www.youtube.com/watch?v=5VyLAH8BhF8&list=RDCMUClOghZ_xkI1km31IeoY-9Bw&index=6
