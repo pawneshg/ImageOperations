@@ -9,7 +9,7 @@
 6. Optical flow implementation using lucas kanade algo.  [optical_flow_lucas_kanade.ipynb](https://github.com/pawneshg/ImageOperations/blob/master/optical_flow_lucas_kanade.ipynb)
 7. Phase Correlation Computation. [phase correlation.ipynb](https://github.com/pawneshg/ImageOperations/blob/master/phase_correlation.ipynb)
 8. Image Smoothing. [smoothing.ipynb](https://github.com/pawneshg/ImageOperations/blob/master/smoothing.ipynb)
-
+9. Basic Adaboost Implementation [basic_ada_boost_implementation.ipynb](https://github.com/pawneshg/ImageOperations/blob/master/basic_ada_boost_implementation.ipynb)
 # References:
 (1) An FFT-based technique for translation, rotation and scale-invariant image registration. BS Reddy, BN Chatterji. IEEE Transactions on Image Processing, 5, 1266-1271, 1996 </br>
 (2) Berthold K.P. Horn and Brian G. Rhunck  "Determining optical flow" AIL MIT, </br>
